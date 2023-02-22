@@ -1,0 +1,3 @@
+opened up using: notepad ___.txt
+
+via gitbash
